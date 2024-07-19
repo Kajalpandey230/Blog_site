@@ -1,3 +1,0 @@
-# Mern-Blog
-# CineVerse
-# CineVerse
