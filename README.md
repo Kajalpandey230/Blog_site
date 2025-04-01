@@ -66,7 +66,7 @@ npm start
 
 Want to take your blog live? Here are some recommended platforms:
 
-Frontend → Deploy on Vercel 
+Frontend → Deploy on Render 
 
 Backend → Host on Render
 
